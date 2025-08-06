@@ -1,6 +1,6 @@
 # Debugger
 
-这是一个用来调试H5页面的Android应用程序。
+这是一个用来调试H5页面的Android应用程序（github copilot写的）。
 
 它提供了一个简单的界面来加载和调试H5页面
 - 默认开启debug
